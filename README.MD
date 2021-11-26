@@ -1,10 +1,12 @@
 ## Hello GitHub Fans 👋
 [![Mail](https://img.shields.io/badge/-a26364177jp@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a26364177jp@gmail.com)](mailto:joeysiwei@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-yu-23a3a314b/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a26364177_github)
 
 ---
 
-[<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=a26364177&show_icons=true&theme=tokyonight"/>](https://github.com/a26364177)
+[<img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=a26364177&show_icons=true&theme=tokyonight"/>](https://github.com/a26364177)
+
 
 ### I'm David Yu
 
@@ -13,7 +15,7 @@
 - 💬 Ask me about React Native, JavaScript and my projects on [a26364177jp](mailto:a26364177jp@gmail.com)
 
 
-[<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a26364177&layout=compact"/>](https://github.com/a26364177)
+[<img align="right" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a26364177&layout=compact"/>](https://github.com/a26364177)
 
 
 ### 🛠 Tech Stack
@@ -37,6 +39,5 @@
 
 ### About me
 - [技術筆記](https://tw-developer-note.github.io/note/)
-- [LinkedIn](https://www.linkedin.com/in/david-yu-23a3a314b)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
