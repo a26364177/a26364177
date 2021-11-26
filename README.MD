@@ -4,7 +4,7 @@
 
 ---
 
-[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=a26364177&show_icons=true&theme=tokyonight"/>](https://github.com/a26364177)
+[<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=a26364177&show_icons=true&theme=tokyonight"/>](https://github.com/a26364177)
 
 ### I'm David Yu
 
@@ -13,7 +13,8 @@
 - 💬 Ask me about React Native, JavaScript and my projects on [a26364177jp](mailto:a26364177jp@gmail.com)
 
 
-[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a26364177&layout=compact"/>](https://github.com/a26364177)
+[<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a26364177&layout=compact"/>](https://github.com/a26364177)
+
 
 ### 🛠 Tech Stack
 
